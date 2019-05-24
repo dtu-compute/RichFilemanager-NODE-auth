@@ -12,15 +12,14 @@
   },
   "keywords": [
     "RichFilemanager",
-    "RichFilemanager",
+    "RichFilemanager-NODE",
     "AuthZ",
     "Authorization"
   ],
-  "peerDependencies": {
+  "dependencies": {
     "express": "^4.15.2",
     "fs-extra": "^7.0.1",
-    "multer": "^1.3.0",
-    "rich-filemanager-node": "^0.1.6"
+    "multer": "^1.3.0"
   },
   "author": "Iain J. Bryson",
   "license": "ISC",
