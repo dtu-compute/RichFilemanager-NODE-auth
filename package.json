@@ -1,0 +1,31 @@
+{
+  "name": "richfilemanager-node-auth",
+  "version": "1.0.0",
+  "description": "Authorization proxy/wrapper for RichFilemanager-NODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtu-compute/RichFilemanager-NODE-auth.git"
+  },
+  "keywords": [
+    "RichFilemanager",
+    "RichFilemanager",
+    "AuthZ",
+    "Authorization"
+  ],
+  "peerDependencies": {
+    "express": "^4.15.2",
+    "fs-extra": "^7.0.1",
+    "multer": "^1.3.0",
+    "rich-filemanager-node": "^0.1.6"
+  },
+  "author": "Iain J. Bryson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtu-compute/RichFilemanager-NODE-auth/issues"
+  },
+  "homepage": "https://github.com/dtu-compute/RichFilemanager-NODE-auth#readme"
+}
